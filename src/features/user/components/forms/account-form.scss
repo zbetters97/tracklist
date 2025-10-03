@@ -26,6 +26,10 @@
   &__label {
     @include flexrow(space-between, center);
   }
+
+  &__name {
+    text-transform: capitalize;
+  }
 }
 
 @include md {

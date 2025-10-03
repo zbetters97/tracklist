@@ -5,6 +5,7 @@
   width: 100%;
   max-width: 800px;
   height: fit-content;
+  min-height: 80vh;
   @include flexcol(initial, center);
   background-color: $dark-gray;
   padding: 1em;

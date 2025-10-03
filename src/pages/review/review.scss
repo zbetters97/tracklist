@@ -53,7 +53,7 @@
     @include font(0.75, normal, $basic-gray);
     padding-bottom: 0.25em;
   }
-
+  
   &__username {
     @include font(initial, bold, $basic-white);
 

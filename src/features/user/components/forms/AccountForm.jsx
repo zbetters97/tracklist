@@ -109,7 +109,7 @@ function FormName({ name, setName }) {
         type="text"
         value={name}
         onChange={handleChange}
-        className="form__input"
+        className="form__input user-form__name"
       />
     </div>
   );
